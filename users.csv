@@ -1,0 +1,26 @@
+voornaam;achternaam;username;SecurityGroep;OU
+Willem;de_Wever;Willem;SG_Directie;OU=Directie,OU=Medewerkers,DC=GO4STONES,DC=nl
+Marie;Verhoeven;Marie;SG_Directie;OU=Directie,OU=Medewerkers,DC=GO4STONES,DC=nl
+Jan;van_de_Ven;Jan;SG-Administratief-medewerkers;OU=Administratief-medewerkers,OU=Medewerkers,DC=GO4STONES,DC=nl
+Henk;van_Loon;Henk;SG-Administratief-medewerkers;OU=Administratief-medewerkers,OU=Medewerkers,DC=GO4STONES,DC=nl
+Sjaan;de_Vries;Sjaan;SG-Administratief-medewerkers;OU=Administratief-medewerkers,OU=Medewerkers,DC=GO4STONES,DC=nl
+Riet;Jansen;Riet;SG-Administratief-medewerkers;OU=Administratief-medewerkers,OU=Medewerkers,DC=GO4STONES,DC=nl
+Guus;Maas;Guus;SG-Administratief-medewerkers;OU=Administratief-medewerkers,OU=Medewerkers,DC=GO4STONES,DC=nl
+Lies;van_der_Heijden;Lies;SG_Medewerkers-in-en-verkoop;OU=Medewerkers-in-en-verkoop,OU=Medewerkers,DC=GO4STONES,DC=nl
+Harrie;Kuijpers;Harrie;SG_Medewerkers-in-en-verkoop;OU=Medewerkers-in-en-verkoop,OU=Medewerkers,DC=GO4STONES,DC=nl
+Martien;Peeters;Martien;SG_Medewerkers-in-en-verkoop;OU=Medewerkers-in-en-verkoop,OU=Medewerkers,DC=GO4STONES,DC=nl
+Nel;Hermans;Nel;=SG_Medewerkers-in-en-verkoop;OU=Medewerkers-in-en-verkoop,OU=Medewerkers,DC=GO4STONES,DC=nl
+Bert;de_Bie;Bert;SG_Magazijnmedewerkers;OU=Magazijnmedewerkers,OU=Medewerkers,DC=GO4STONES,DC=nl
+Liesbeth;van_Kasteren;Liesbeth;SG_Magazijnmedewerkers;OU=Magazijnmedewerkers,OU=Medewerkers,DC=GO4STONES,DC=nl
+Hanneke;van de Wetering;Hanneke;SG_Magazijnmedewerkers;OU=Magazijnmedewerkers,OU=Medewerkers,DC=GO4STONES,DC=nl
+Theo;Meulenbroeks;Theo;OU=SG_Magazijnmedewerkers;OU=Magazijnmedewerkers,OU=Medewerkers,DC=GO4STONES,DC=nl
+Wim;van_Esch;Wim;SG_Magazijnmedewerkers;OU=Magazijnmedewerkers,OU=Medewerkers,DC=GO4STONES,DC=nl
+Ad;van_der_Linden;Ad;SG_Productiemedewerkers;OU=Productiemedewerkers,OU=Medewerkers,DC=GO4STONES,DC=nl
+Mieke;Martens;Mieke;SG_Productiemedewerkers;OU=Productiemedewerkers,OU=Medewerkers,DC=GO4STONES,DC=nl
+Riek;van_der_Velden;Riek;SG_Productiemedewerkers;OU=Productiemedewerkers,OU=Medewerkers,DC=GO4STONES,DC=nl
+Cor;de_Wit;Cor;SG_Productiemedewerkers;OU=Productiemedewerkers,OU=Medewerkers,DC=GO4STONES,DC=nl
+Fien;van_Gorp;Fien;SG_Productiemedewerkers;OU=Productiemedewerkers,OU=Medewerkers,DC=GO4STONES,DC=nl
+Sjef;Smeets;Sjef;SG_Chauffeurs;OU=Chauffeurs,OU=Medewerkers,DC=GO4STONES,DC=nl
+Truus;van_Hout;Truus;SG_Chauffeurs;OU=Chauffeurs,OU=Medewerkers,DC=GO4STONES,DC=nl
+Frans;Willems;Frans;SG_Chauffeurs;OU=Chauffeurs,OU=Medewerkers,DC=GO4STONES,DC=nl
+Jac;Scheepers;Jac;SG_Chauffeurs;OU=Chauffeurs,OU=Medewerkers,DC=GO4STONES,DC=nl
