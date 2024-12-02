@@ -1,0 +1,10 @@
+Name;GroupScope;GroupCategory;OU
+Cursussen2;Global;Security;OU=Cursussen,OU=Examen136938,DC=examen136938,DC=com
+Coaching2;Global;Security;OU=Coaching,OU=Cursussen,OU=Examen136938,DC=examen136938,DC=com
+Psychologie2;Global;Security;OU=Psychologie,OU=Cursussen,OU=Examen136938,DC=examen136938,DC=com
+Taal2;Global;Security;OU=Taal,OU=Cursussen,OU=Examen136938,DC=examen136938,DC=com
+In- en verkoop2;Global;Security;OU=In- en verkoop,OU=Examen136938,DC=examen136938,DC=com
+Management2;Global;Security;OU=Management,OU=Examen136938,DC=examen136938,DC=com
+Marketing2;Global;Security;OU=Marketing,OU=Examen136938,DC=examen136938,DC=com
+Administratie2;Global;Security;OU=Administratie,OU=Examen136938,DC=examen136938,DC=com
+IT2;Global;Security;OU=IT,OU=Examen136938,DC=examen136938,DC=com

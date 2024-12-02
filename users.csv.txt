@@ -1,0 +1,6 @@
+voornaam;achternaam;username;SecurityGroep;OU
+Jan;Janssen;J.Janssen;Administratie;OU=Administratie,OU=examen136938,DC=examen136938,DC=com
+Eva;Visser;E.Visser;IT;OU=IT,OU=examen136938,DC=examen136938,DC=com
+Tom;Vries;T.Vries;Marketing;OU=Marketing,OU=examen136938,DC=examen136938,DC=com
+Lia;Smits;L.Smits;Management;OU=Management,OU=examen136938,DC=examen136938,DC=com
+Max;Bakker;M.Bakker;Cursussen;OU=Cursussen,OU=examen136938,DC=examen136938,DC=com
