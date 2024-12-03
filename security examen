@@ -68,7 +68,9 @@ En dat veel medewerkers een makkelijk te kraken wachtwoord gebruiken hierdoor ka
 
 Verbetervoorstellen
 
-Ik heb de volgende verbetervoorstellen maandelijks met openVAS het netwerk scannen op kwetsbaarheden. en alle netwerk poorten goed beveiligen en maandelijks controleren met Nmap of er poorten open staan. 
-Ook zou ik de database goed bijhouden zodat je een mooi overzicht hebt welke apparaten op je netwerk zitten. 
-En ik zou alle medewerkers nog eens goed uitleggen waarom een goed wachtwoord zo belangrijk is, en je geen usb sticks of externe harde schijven moet gebruiken.
-ook zou ik alternatieven voorstellen zoals bv onedrive, teams of SURFfilesender te gebruiken om bestanden op te slaan of te delen stukken veiliger.
+Ik heb de volgende verbetervoorstellen maandelijks met openVAS het netwerk scannen op kwetsbaarheden. 
+en alle netwerk poorten goed beveiligen en maandelijks controleren met Nmap of er poorten open staan. 
+Ook zou ik de database goed bijhouden zodat je een mooi overzicht hebt welke apparaten op je netwerk zitten.
+En ik zou alle medewerkers en studenten nog eens goed uitleggen waarom een goed wachtwoord zo belangrijk is. De meeste gebruiken een simpel wachtwoord meerdere keren.
+Ook zou ik alternatieven voorstellen zoals bv een password manager die een goed en uniek wachtwoord geneert en bewaard voor je. En het gebruik van tweefactorauthenticatie.
+En nog eens benadrukken waarom je geen usb sticks of externe harde schijven moet gebruiken en met alternatieven komen zoals het gebruik van onedrive, teams of SURFfilesender om bestanden op te slaan of te delen stukken veiliger.
