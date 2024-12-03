@@ -1,0 +1,74 @@
+Bijlage 1.0 Memo dienst-ICT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Antivirustool
+
+Ik raad AVG Antivirus aan, want die wordt hoog aangeprezen door verschillende sites en is betrouwbaar en gratis, Ook is het op de meeste apparaten te installeren, en heeft het een vriendelijke gebruiksomgeving. 
+AVG controleert op verborgen malware, waaronder virussen en schadelijke software als spyware en ransomware. Zoals je in de vergelijkingstabel kan zien komt AVG als beste uit de test, maar ook heeft AVG een paar nadelen.
+Zo heb je in het programma advertenties en beperkte klantenondersteuning met een gratis versie.
+
+ 
+
+
+Backup
+
+
+
+
+
+Updates
+De belangrijkste updates zijn toch wel de beveiligingsupdates. Door deze updates ben je minder kwetsbaar, en deze beschermen je tegen bedreigingen, zoals malware en hackers.
+Ook heb je nog Kritieke Beveiligingspatches, dat zijn updates die direct wat doen voor de veiligheid van het systeem. Deze 2 soorten updates moeten gelijk worden geinstalleerd zodra ze beschikbaar zijn. 
+Verder heb je ook nog de systeem updates voor het besturingssysteem, deze verbeteren de prestaties en stabiliteit deze moeten worden toegepast nadat ze getest zijn.
+Omdat hier nog wel eens problemen in kunnen zitten test je deze in een testomgeving, en test je of er problemen zijn en of alle software nog naar behoren werkt. Ook zorg je dat je een goed back up plan hebt voor als er na de update alsnog problemen ontstaan.
+
+
+Kwetsbaarheden en bedreigingen
+
+Als eerst breng ik alle systemen in kaart alle servers, laptops, netwerkapparatuur en alle andere apparaten die op het netwerk zitten.
+Dit kan door een database te maken in Acces. Als ik weet welke apparaten op het netwerk zitten, ga ik een kwetsbaarheden scan doen om kwetsbaarheden te vinden.
+Dit ga ik doen met openVAS dit spoort alle kwetsbaarheden op in een netwerk, zoals de systeembeveiliging en netwerkbeveiliging hier maakt openVAS een rapport van. 
+Ook ga ik met Nmap kijken of er open poorten zijn binnen het netwerk. Ook ga ik met GoPhish kijken of medewerkers klikken op een onbekend linkje in een email. 
+Ik verwacht dat veel medewerkers hier op zullen klikken. Ook verwacht ik ondanks dat het volgens de AVG niet mag nog steeds veel usb stickjes en harde schijven worden gebruikt. 
+En dat veel medewerkers een makkelijk te kraken wachtwoord gebruiken hierdoor kan er snel een groot data lek komen. 
+
+
+
+
+
+
+Verbetervoorstellen
+
+Ik heb de volgende verbetervoorstellen maandelijks met openVAS het netwerk scannen op kwetsbaarheden. en alle netwerk poorten goed beveiligen en maandelijks controleren met Nmap of er poorten open staan. 
+Ook zou ik de database goed bijhouden zodat je een mooi overzicht hebt welke apparaten op je netwerk zitten. 
+En ik zou alle medewerkers nog eens goed uitleggen waarom een goed wachtwoord zo belangrijk is, en je geen usb sticks of externe harde schijven moet gebruiken.
+ook zou ik alternatieven voorstellen zoals bv onedrive, teams of SURFfilesender te gebruiken om bestanden op te slaan of te delen stukken veiliger.
