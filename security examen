@@ -40,7 +40,11 @@ Zo heb je in het programma advertenties en beperkte klantenondersteuning met een
 
 
 Backup
-
+Ik zou een back up gaan maken via 2 nas systemen op 2 verschillende locaties, zodat bij brand of iets anders niet alles kwijt bent.
+Dan zal ik de software veeam installeren op de server, dan moet je verbinding maken met de 2 nas systemen.
+Dan kan je de back ups instellen ik zou maandag, dinsdag, woensdag, donderdag, vrijdagen zaterdag om 1 uur s’ nachts een back up maken van de recente wijzigingen (incrementele back up) 
+en, elke zondag om 1 uur s’ nachts een volledige (full back up) maken.
+En dat voor beide nas systemen instellen zodat je altijd een goed back up hebt.
 
 
 
