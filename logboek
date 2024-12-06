@@ -1,0 +1,17 @@
+De melding 
+Een BYOD-Laptop van een college is met malware overgenomen, hij heeft op een onbetrouwbare link geklikt.
+Laptop is geblokkeerd, ook de bestanden op de netwerkschijf lijken geencrypt.
+De bestanden worden alleen vrijgegeven als we een crypto betaling doen.
+
+De prioriteit 
+De prioriteit is hoog P1 want de college kan niet verder werken of bij zijn bestanden.
+Ook is de rest van de bestanden in gevaar omdat de laptop op een netwerk zit en een netwerkschijf heeft.
+En volgens de AVG is dit een datalek en dat heeft een hoge prioriteit  en zullen alle betrokkenen moeten worden geïnformeerd volgens de richtlijnen. 
+
+De oplossing
+We verwijderen de laptop gelijk van het netwerk om verdere verspreiding te voorkomen, ook controleren we het netwerk of de malware niet al ergens anders is.
+De bestanden die op de netwerk schijf staan worden hersteld door middel van een recente back up.
+De laptop zal worden gerest en zal opnieuw geconfigureerd worden en daarna gescand of er echt geen malware meer opstaat anders moet de collega de laptop vervangen.
+Ook worden alle betrokkenen geïnformeerd volgens de AVG richtlijnen, omdat dit om een datalek gaat. In de tussentijd krijgt de collega een leen laptop zodat die wel kan blijven werken.
+
+
